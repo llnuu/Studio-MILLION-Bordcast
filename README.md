@@ -1,4 +1,4 @@
-# Studio-MILLION-Bordcast
+# Studio-MILLION-BroadCast
 discord bot
 menu +help
 
