@@ -6,7 +6,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Studio 1MILLION",
+    "author": "StudioMILLION",
     "license": "MIT",
     "dependencies": {
         "@discordjs/builders": "^0.14.0",
