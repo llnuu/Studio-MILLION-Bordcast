@@ -19,3 +19,6 @@ menu +help
 
 
 By : NL_j - Studio 1MILLION
+
+# need node.js
+https://nodejs.org/
